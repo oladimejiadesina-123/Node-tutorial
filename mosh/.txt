@@ -1,0 +1,26 @@
+semantic version >>>>> Major minor patch 
+~ tilder ^ caret
+
+Listing Packages >>>>>>
+
+___ NPM LIST to see version
+___ NPM LIST --depth=0 dependecies installed in the package.json shows up.
+___ NPM VIEW (package name) ie mongoose
+___ NPM VIEW (package name) versions ie mongoose
+___ NPM VIEW (package name) dependecies ie mongoose if interested only dependecies
+
+UpGrade Or DownUpGrade node versions
+
+
+npm install mongoose@2.4 the version you want >>>>>>>>>>>>
+npm install underscore@1.40 the version you want >>>>>>>>>>>>
+
+npm outdated
+npm update
+npm i -g  npm-check-updates
+
+Devdependecies
+
+
+
+
