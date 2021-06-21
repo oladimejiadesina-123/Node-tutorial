@@ -20,7 +20,12 @@ npm update
 npm i -g  npm-check-updates
 
 Devdependecies
+--save-dev
 
+uninstalling a package
+
+npm uninstall (package name)
+npm un (package name)
 
 
 
